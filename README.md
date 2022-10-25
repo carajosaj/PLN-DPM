@@ -3,6 +3,6 @@
  
  by [Runji Cai](https://github.com/carajosaj), [Yuhao Xie], [Huiyi Cai], [Min Wang], [Yuefang Gao] and [Xiaoming Ma] at CHINA Guangzhou, [SCAU](https://www.scau.edu.cn/)
 
-The butterfly-914 dataset
+The butterfly-914 dataset：The data presented in this study are available on request from the corresponding author（gaoyuefang@scau.edu.cn)
 
 The [IP102 insect dataset](https://github.com/xpwu95/IP102.)
